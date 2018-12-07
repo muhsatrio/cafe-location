@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+    integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"
+    integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
+    crossorigin=""></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <style>
+        #mapid {
+            height: 400px;
+        }
+    </style>
+    <title>MapBox</title>
+</head>
+<body>
+    <h1 align="center">Lokasi Istimewa dengan Mapbox</h1>
+    <h3 align="center">Kategori: Kafe</h3>
+    <h3 align="center">Lokasi: Kota Bandung</h3>
+    <div id="mapid">
+    </div>
+    <script>
+        var mymap = L.map('mapid').setView([-6.9032739,107.5729449], 12);
+        L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+                    attribution: 'test',
+                    maxZoom: 18,
+                    id: 'mapbox.streets',
+                    accessToken: 'pk.eyJ1IjoibXVoc2F0cmlvIiwiYSI6ImNqbWZzdTY4YzFjMGMza28xc2VuNzd2bWkifQ.3AO4FuIgKQFVO4L0Dm73bA'
+        }).addTo(mymap);
+        var dataMap = $.getJSON("assets/kafe.json",
+            function (data) {
+                $.each(data.results, function (i, point) { 
+                    //  console.log(point)
+                    L.marker([point.geometry.location.lat,point.geometry.location.lng], {
+                        id: point.reference,
+                        title: point.name,
+                    })
+                    .bindPopup(point.name + "<br><br>" + point.vicinity)
+                    .addTo(mymap);
+                });
+        });
+    </script>
+</body>
+</html>
+
+<!-- pk.eyJ1IjoibXVoc2F0cmlvIiwiYSI6ImNqbWZzdTY4YzFjMGMza28xc2VuNzd2bWkifQ.3AO4FuIgKQFVO4L0Dm73bA -->

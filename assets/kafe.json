@@ -1,0 +1,872 @@
+{
+   "html_attributions" : [ "Listings by \u003ca href=\"http://www.openrice.com/\"\u003eOpenRice\u003c/a\u003e" ],
+   "next_page_token" : "CvQD7QEAABjf9Nngf_2-GJLYndPVHciTCGcvbL22zQgr8nexiL6W8swK9wL-kLGBuO2E9lXPsHI4lxFtZwDrbkwRv78KptelJ6AkcRM9pVbvl3k8lFhWuhAF39zsaT2iSTbm5-yMYhUxb1MUnxAmbt4bZ-J4Ce4mVqRmjfKQmb-bURxDoAGRpzaHpoWbA35FSsziKNlRV2DBXVHcx0e5hFFRTfnmn0WPJh145v-SfMibpp6-p7Rgaa0gk8gUu8-auKLCErz3BUAtN1BDF9OFcfLLR60a8_PPvNreafxMpcD_LqtdH6FVrK9HWPfOUtXCUa8X36WcJb8pUSBLCIJAlEF9eGi1T0tws_Y7_VnOFQMdvZrpdfUzX6hN-5E5OU7PXA3Z02FlwxylX2bBWdxaqW33WN92EgkHlEfb0Hz40rFIYg7b2C8yoBk5Zzfddmzrd4yrQNa0rBjB73PPE0O2n2PFg4fGKjvJI0xkAxRJY7CiQzbSqlMLc8vpt2M85EA2GzISubnjdvtZ4rwKkX2UXHakaSJNCqe0qbywOdNLF6U-qiLf1fNwz253M3_jSBgJmgUbyjSSKyyuJsNUmy8bgjWmLwfnxpsWX71_UcohH6KZ3igPNmhYKIEUbSAPDtX68tRoneY702yoTB55CDHv567C4BPXaXoSEPhNrcKLR-t7v4cqin5wBw0aFClygyYDe2rFgXda5BNShwxkwRO5",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9258602,
+               "lng" : 107.6366698
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.924510370107278,
+                  "lng" : 107.6380196298927
+               },
+               "southwest" : {
+                  "lat" : -6.927210029892722,
+                  "lng" : 107.6353199701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9b268c08eba8b0af8cb9ec534097013552293361",
+         "name" : "Kafe Betawi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 704,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112963472368616444096/photos\"\u003eYono Abdurahman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzmNun9ZGJA-tV_vK-FeFvE9Wg5vQul2lLmLSTFkWGEujykHEBZ8wJlbqFdTfLXmFX3HUZHSwYeiMiVc-3nzcN3Oh6SrloLDQhVaxEBYUU5H83U8fGw1JofAllzoWPQetEhDzKFsJFFdLngKajVtBy0-jGhR60uWjexuM4-QQbtYx9PnZSJc9lA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJUXlp_tjnaC4ReQ7h-k7M8bo",
+         "plus_code" : {
+            "compound_code" : "3JFP+MM Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P593JFP+MM"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJUXlp_tjnaC4ReQ7h-k7M8bo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Trans Studio Mall Lantai 2, Jalan Jendral Gatot Subroto No.289, Cibangkong, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.84817,
+               "lng" : 107.548588
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.846820170107279,
+                  "lng" : 107.5499378298927
+               },
+               "southwest" : {
+                  "lat" : -6.849519829892722,
+                  "lng" : 107.5472381701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2f92ef5d3fc17ebc085ce12f84ef129ba0e6554e",
+         "name" : "Kafe KupuKupu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100470423164169637379/photos\"\u003eHana Jeliona\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA_I6v6b2LAUQqj8fghoNL7cPlp6iq4WcQ4RFoJM0DZ2VnGlFydTvHrWOzLPf0eZ1czzAxTIJ3fUsaJWp0Qynh-dnf3V6yQRPSBoEZ5nw_MVipV6ns2Ajo4UBzapvNA3_EhCHQSQVEjGYP_n-oPvBrtRKGhRZl7FSozrfd_2IuJPeWXXDFqU1CA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJGZj1nYrjaC4RQNWIayIHj_A",
+         "plus_code" : {
+            "compound_code" : "5G2X+PC Cisarua, West Bandung Regency, Jawa Kulon",
+            "global_code" : "6P595G2X+PC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJGZj1nYrjaC4RQNWIayIHj_A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "JL. Kolonel Masturi KM.3, Cipageran, Cimahi Utara, Cipageran, Kota Cimahi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9287487,
+               "lng" : 107.6227992
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.927308820107278,
+                  "lng" : 107.6241757798927
+               },
+               "southwest" : {
+                  "lat" : -6.930008479892722,
+                  "lng" : 107.6214761201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9b782e2648f0a261d659162a92696ad5bb212f1c",
+         "name" : "Lilipadi Cafe & Resto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106452592998414905647/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXnMBXspOdn66E6t5wHyzz8_eukU65QR-Qft70STDHgYg3Q-YrCfVNPhrydMduOBopkNTlaGHxFPsOhd2QlwrUJqgk0p7rJ61zGbuzPkpppRYijhYCedfxzVzM_DrooUiEhAqGL7ikdXPNvC8L2GqyOkfGhThkbMWSWr8uJDxdZk79IK3ESnmCA",
+               "width" : 854
+            }
+         ],
+         "place_id" : "ChIJcR98-n_oaC4RQ9Z7RDCTE2Q",
+         "plus_code" : {
+            "compound_code" : "3JCF+G4 Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P593JCF+G4"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJcR98-n_oaC4RQ9Z7RDCTE2Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jl. Talaga Bodas No.54, Malabar, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.950496999999999,
+               "lng" : 107.610291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.949166270107278,
+                  "lng" : 107.6115732298927
+               },
+               "southwest" : {
+                  "lat" : -6.951865929892722,
+                  "lng" : 107.6088735701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a61ed8c75802e78062d612ca7dbea1887c3441a1",
+         "name" : "Bebek Benyek & Kafe Abahku",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105585557201108912372/photos\"\u003eKedai Bebek Benyek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGaM6_gvSqbURmtyoFMLUxZzgfgDohCfNn4FiEpxu_N3mPMWYvOriwt3IyREJyhc5Bu99ZakC2kewC7qL5EG-1db08PBA5e5W41byINHBDONNPZAGN0vjeAxxUOIh0SxPEhBlGNXkt7eAk3XRxqySG_-TGhR7CcEINiDLdF9EdRuey2pOj0s1RQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJj1-AbPLoaC4R9CpAPWVa0F0",
+         "rating" : 4.8,
+         "reference" : "ChIJj1-AbPLoaC4R9CpAPWVa0F0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Moch. Toha No.295, Karasak, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.917395399999999,
+               "lng" : 107.6622351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.916022770107277,
+                  "lng" : 107.6636163298927
+               },
+               "southwest" : {
+                  "lat" : -6.918722429892721,
+                  "lng" : 107.6609166701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d570f883258eacb94540138735a877f549d8c02b",
+         "name" : "Kafe Bandung & Soto Sadulur",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117065135781737399410/photos\"\u003eFaudzi Faridzi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcKLxbMgn8dD4nWizkKJLKMpZOnqlAg01ZN1mTo0ydrnNGMpanCDxwBpnZw23hD574Th5iXNwk36un1BkGhxDrnpV5ie-RnRDVJNf8FuWRQVkei-k1m_BF0a1wpE9Sj0zEhAJMyIXcCegFp2unQQFGeJDGhTEbmXjPNRwbjFZ9MdZwSbyfJNK1Q",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJx7QJF_rnaC4RaitcFbBcfSo",
+         "plus_code" : {
+            "compound_code" : "3MM6+2V Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P593MM6+2V"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJx7QJF_rnaC4RaitcFbBcfSo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Kuningan Raya No.64, Antapani Kidul, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.867453599999999,
+               "lng" : 107.6278264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.866103770107277,
+                  "lng" : 107.6291762298927
+               },
+               "southwest" : {
+                  "lat" : -6.868803429892721,
+                  "lng" : 107.6264765701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4fb45c06e889b62dfec65141f6464b1c54ce84af",
+         "name" : "Congo Gallery & Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1773,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101652937960887475917/photos\"\u003eDerajat Ratwianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe7Xxg0IpoQurn4J5u00_HHcKEEIpz0hNGgXPvJnhUxhsFbiOmPNaBDlM4JOkqet3njQhOrt9j1fcSAmkr-syGoVDpDWUXJ4CsvDTtKE0d07AvX7rzyjDMuxikxvL9I88EhAjHi2jvH-EO0mOokRR74lGGhR1VkSGqUzGNjou08KrdD8LUYJDHw",
+               "width" : 2364
+            }
+         ],
+         "place_id" : "ChIJ86Pb0xjnaC4ReIPBz-t1HAQ",
+         "plus_code" : {
+            "compound_code" : "4JMH+24 Cimenyan, Kabupatén Bandung, Jawa Kulon",
+            "global_code" : "6P594JMH+24"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ86Pb0xjnaC4ReIPBz-t1HAQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "art_gallery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jl. Ranca Kendal Luhur No.8 Dago, Ciburial, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9249411,
+               "lng" : 107.5366094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.923589370107278,
+                  "lng" : 107.5379333298927
+               },
+               "southwest" : {
+                  "lat" : -6.926289029892722,
+                  "lng" : 107.5352336701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4bbd6b8c9262fb9491b4b8606771f142d707b99b",
+         "name" : "Kafe Ma Atun",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116972678113895831607/photos\"\u003esofyan djalil\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQydQW2snHGYyU4DxNaz2CvIIxDOT_mOcSuWiqWDdjTUunOR7wPSjrWiBGuVFnOvTEmnU4yba45nuvi5EdgiEws3w5o9M-J5bVjtzyTnbOOfJSjBbwH0Lb6xq3cUmrgD6EhAQbC9bBa3k3P2EumBjsWtBGhSlgJN5HTKTiJL10Eug6IPfAvpxeA",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJgejIxYXlaC4RKY-TDvrS0B8",
+         "plus_code" : {
+            "compound_code" : "3GGP+2J Margaasih, Kabupatén Bandung, Jawa Kulon",
+            "global_code" : "6P593GGP+2J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJgejIxYXlaC4RKY-TDvrS0B8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Kp. Sukamanah - Lagadar - Marga Asih, Lagadar, Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.959038,
+               "lng" : 107.661599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.957687420107279,
+                  "lng" : 107.6629449298927
+               },
+               "southwest" : {
+                  "lat" : -6.960387079892723,
+                  "lng" : 107.6602452701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1c5ced356f1113c6e3c1fac5ce75f9bbde9b84a8",
+         "name" : "BMBK Kafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116498723384352352299/photos\"\u003eBMBK Kafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzgF2N5PtbPaD5V6wdr9SGI160uBjHjjoC3T_SfP1kQAtlgvKZwwpOvbzxVuzipg4ibgwNcziBuzceOLWi2Hh4WStvt6jz5gjWz1DRNgHlfn9eK72_yDhAkJrUMaEPOuSEhB_x1KeHWTOSbGmAoMPNzTKGhR1Ox0HsXBCXCI3GnD8vyjgTsn9wQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJDzs3PS_oaC4RSxdhjydTlyA",
+         "plus_code" : {
+            "compound_code" : "2MR6+9J Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P592MR6+9J"
+         },
+         "rating" : 0,
+         "reference" : "ChIJDzs3PS_oaC4RSxdhjydTlyA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Pluto Raya No.1, Margasari, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.893497000000001,
+               "lng" : 107.604303
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.892139270107279,
+                  "lng" : 107.6055734298927
+               },
+               "southwest" : {
+                  "lat" : -6.894838929892723,
+                  "lng" : 107.6028737701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4d80a20a7f63d96b92d0219ed637fdc990154382",
+         "name" : "Kafe Pisa",
+         "place_id" : "ChIJoYGleVvmaC4RqF8dK5tEnAs",
+         "plus_code" : {
+            "compound_code" : "4J43+JP Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P594J43+JP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJoYGleVvmaC4RqF8dK5tEnAs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Cihampelas No.75, Cipaganti, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.908350899999999,
+               "lng" : 107.6106927
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.907001370107277,
+                  "lng" : 107.6120018298927
+               },
+               "southwest" : {
+                  "lat" : -6.909701029892721,
+                  "lng" : 107.6093021701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e8d5cae74dec2c534c96ba61c9757fc7b35eb176",
+         "name" : "Lotte Kafe",
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [ "A Google User" ],
+               "photo_reference" : "CmRaAAAAZPpgglLCdjhbdAxiCrdUAqG-zOoxayUst4Iz0T5NB_29r94FqEMm1G2fFNONvcH_MTf7jbOzoVixsc4CBRW_h6ljriuN1NsCfm77j7SUxmXFKG3aHNHNrJPS444IItKgEhAHL0iuysf1FR9OWhf-1XkeGhSNpuWYQnUpk3NI2wfBauTv2BYwxw",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJN0Hb6DfmaC4R2Ux2ezeDsS8",
+         "plus_code" : {
+            "compound_code" : "3JR6+M7 Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P593JR6+M7"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJN0Hb6DfmaC4R2Ux2ezeDsS8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Merdeka No.56, Citarum, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9371173,
+               "lng" : 107.6322223
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.935767470107279,
+                  "lng" : 107.6335721298927
+               },
+               "southwest" : {
+                  "lat" : -6.938467129892723,
+                  "lng" : 107.6308724701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "628246f1c7330a64aedc35c17a14f4f7f130bea0",
+         "name" : "Sastro Kafe & Katering",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJaZGLuXroaC4RdC7rcDH2hdU",
+         "plus_code" : {
+            "compound_code" : "3J7J+5V Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P593J7J+5V"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJaZGLuXroaC4RdC7rcDH2hdU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Reog Raya No.7, Turangga, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.971397899999999,
+               "lng" : 107.5785945
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.970081070107279,
+                  "lng" : 107.5799436798927
+               },
+               "southwest" : {
+                  "lat" : -6.972780729892722,
+                  "lng" : 107.5772440201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fccdc65a42a28cb825abed2008187b1ab27fe580",
+         "name" : "Kafe Para Normal",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101404479300771121682/photos\"\u003eSelly Fuji\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8OnZsEth8mCNGyuctbleR9RdfmXrvF-8TLaS3EJ813Rl1DrLQkzWZQRw5HF3orfOoryvjZ3xneDNhf-dVAzDKeRRqUWU3YdyhXET_991AxoXKNPTe342BcgbJ7r9CxPtEhAB2GNBA7F_c5y_2s1qsWtJGhTT_JbYi_7cnJV4SnwNgi-rxxriIw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJycAubSrpaC4RpetKEuKaAto",
+         "plus_code" : {
+            "compound_code" : "2HHH+CC Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P592HHH+CC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJycAubSrpaC4RpetKEuKaAto",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Sukamenak No.87, Sayati, Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.8178898,
+               "lng" : 107.6271112
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.816539970107278,
+                  "lng" : 107.6284610298927
+               },
+               "southwest" : {
+                  "lat" : -6.819239629892722,
+                  "lng" : 107.6257613701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e39249db4842170eae8eec4af84a56485cf8a442",
+         "name" : "Restoran Rumah Kayu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107083651698949520149/photos\"\u003eFajar Adriyanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbs4UMAsEq6b1-JVo6Mkkwh1M3wg2fQXguT2DEhZn0I_aiCOrkGNLs6RdW4a7rtzPVPNNReX5_E3izIZhP8aWIXRpvTEzQRbC4UOW-4kzYrnaJ8RFXPg2TM90LsYJ7-I9EhC5KXz1icUGqNIZrsjxcHfHGhSEmFGmhCpZjXykCKPLo_FtUl2C8A",
+               "width" : 5984
+            }
+         ],
+         "place_id" : "ChIJf_bhfePgaC4R31thEiIhnWc",
+         "plus_code" : {
+            "compound_code" : "5JJG+RR Lembang, West Bandung Regency, Jawa Kulon",
+            "global_code" : "6P595JJG+RR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJf_bhfePgaC4R31thEiIhnWc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Wira No. 22, Lembang, Kabupaten Bandung Barat"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9037332,
+               "lng" : 107.6220649
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.902255420107277,
+                  "lng" : 107.6234655798927
+               },
+               "southwest" : {
+                  "lat" : -6.904955079892721,
+                  "lng" : 107.6207659201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5a9f4bbe999490cb1fdb78101111ae005720b00e",
+         "name" : "Fourplay Cafe & Resto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114954070447205374961/photos\"\u003eefrizal saja\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZ-uRZ4qAd6Uj4PD_XcBSbAeCdrbIlB6dzG78ryLTbo0I3cKqWJ8CHiZXO8K4jdHimV_B4ehvXF13qp0ZqPX5DteYgprk6cDoTj8jZf9jGDz2j2alpOmwlH5_C5wmklmXEhAKZeVrNQnwvePkzKSxQNZpGhQMJ39BOvoPrte0IGaNrFySbA8uzw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJZZD-yLTnaC4RWeQtixMFLc4",
+         "plus_code" : {
+            "compound_code" : "3JWC+GR Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P593JWC+GR"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJZZD-yLTnaC4RWeQtixMFLc4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Cilaki No.65, Citarum, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.868233,
+               "lng" : 107.535584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.866931620107278,
+                  "lng" : 107.5369740298927
+               },
+               "southwest" : {
+                  "lat" : -6.869631279892721,
+                  "lng" : 107.5342743701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "265311368948382faddb052e66188089673ba85d",
+         "name" : "KAFE GAJAH",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113465102457265525088/photos\"\u003eRaihane Mutiara Fadillah Effendi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZmY1UAkMZtN1Hp7l-Qmu-B2VdmoWFGLp-t_O3WEHPfsYlTKRCKvLat5M2XwdxPhaQ6s3MK7vrqimSTH3MhKJBT9KF0-Ct0_MZpiNrlxV0jPJRJ913fRnVgrkIrnbj5UsEhAiZ2VFGC7HgqIqM77FtUCdGhRKkd_mAax0vJx93P2oAu7y3UIoDA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ8Rr0dGfkaC4RiKWhOBybmMQ",
+         "rating" : 4.4,
+         "reference" : "ChIJ8Rr0dGfkaC4RiKWhOBybmMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Plaza Sangkuriang No.19-23, Jl. Sangkuriang No.19, Padasuka, Kota Cimahi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.867521699999999,
+               "lng" : 107.6208952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.866159470107278,
+                  "lng" : 107.6221888798927
+               },
+               "southwest" : {
+                  "lat" : -6.868859129892722,
+                  "lng" : 107.6194892201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "cdfe16f8dc76b9bb67b8373ccf362b7ba21d6167",
+         "name" : "Bamboo Shack Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118350800886623854116/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2WNm-9nqA4Q0leEv4V9qh-2tq7YTeMaYOcTkZd3UxTl1ckR3YMlB58LezCCqjnvQatdy2hT1oF8BCE94P5CuNm13q9S-MPn9mFCeaLbNfJ9YMqzhz4odNOghID8fLPgqEhCACTNg9Ha7qTEd9lczAih6GhShAP-UjGKryDwCUj9kmFLYrT1ysQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ22ICI-DmaC4Ri8Ia--lzklQ",
+         "plus_code" : {
+            "compound_code" : "4JJC+X9 Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P594JJC+X9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ22ICI-DmaC4Ri8Ia--lzklQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Ir. H.Djuanda No.462D, Dago, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.902105499999999,
+               "lng" : 107.6249024
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.900703270107278,
+                  "lng" : 107.6261210798927
+               },
+               "southwest" : {
+                  "lat" : -6.903402929892722,
+                  "lng" : 107.6234214201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "97c28e0814ee862815bc4b692199e18f56cb855c",
+         "name" : "Koffie Tijd!",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1066,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110874965642687827631/photos\"\u003eDhani Wardhani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnexXBbPGCghGRVqRA8y1-4IjnqSZbrWMCCgtipe6JhgSm4pnaAeA80VY7FZn4hApXJ8O8Vg-sBIEvv7Z4yF_HlVGeZe_frDswXe5hRuczz6D9cSC1c6xipKX9nT-PynEEhBLOiZje9yKxoKXJM3BI266GhRKzb1AOYgKhduzoVEyvpSz29cPHw",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJed9LmTXmaC4RR8Cz0X15yTc",
+         "plus_code" : {
+            "compound_code" : "3JXF+5X Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P593JXF+5X"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJed9LmTXmaC4RR8Cz0X15yTc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jl. Citarum No.30, Cihapit, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.893961999999999,
+               "lng" : 107.634707
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.892616170107278,
+                  "lng" : 107.6361965298927
+               },
+               "southwest" : {
+                  "lat" : -6.895315829892722,
+                  "lng" : 107.6334968701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2d9ca16490abc3ca4e1ccf3a255ef45776513604",
+         "name" : "Trends Cafe & Resto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111945372841861225699/photos\"\u003eHerman Busri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdRoGB5KShe95tammhvsqKVlosEe6iSBPCGqEBo8DBffg5LC7dzx0QtS0jjhVFFIDJrPvDmosfWJaPGYmRv6zYr5MFXSGfkdindYIzbXL34vA2SrFHFXcql7IHcxadXQUEhChO9Ub-N9uvsZ2EbyZB_9-GhQ5ZieStlMjpJydzSp7oub0ZZw_kQ",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJken9oKXnaC4R6VBi_aD5J3Y",
+         "plus_code" : {
+            "compound_code" : "4J4M+CV Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P594J4M+CV"
+         },
+         "rating" : 4,
+         "reference" : "ChIJken9oKXnaC4R6VBi_aD5J3Y",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Pahlawan No.89, Sukaluyu, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.8999997,
+               "lng" : 107.6446396
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.898719770107278,
+                  "lng" : 107.6459682798927
+               },
+               "southwest" : {
+                  "lat" : -6.901419429892722,
+                  "lng" : 107.6432686201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4af8af19e6892d3ce118b5dbfcd68656b4b6064d",
+         "name" : "d'Moners Home",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3016,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103494385697293699868/photos\"\u003eDika Purnasucita\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6H4BP2XXvN7Rmn4qiW_LTI1DJH9rA7rh8Fe9OQFT6PkDUjm7VEYJu1uQatkdJJVNj6htZgwgJVmWr172muuLHnBxBURBrLnGG3L7L8kSojukJo8X4HcVp3RZUw7BnFzhEhBYo9sTyPrRDv3SUJ9xbtjmGhRfArwe51Sss8At4WWIHDZLmQOGTQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJCZyHtr3naC4RpBKql0x_Bc4",
+         "plus_code" : {
+            "compound_code" : "4J2V+2V Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P594J2V+2V"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJCZyHtr3naC4RpBKql0x_Bc4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. PH.H. Mustofa No.73, Sukapada, Kota Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9045133,
+               "lng" : 107.6196135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.903227070107278,
+                  "lng" : 107.6209646798927
+               },
+               "southwest" : {
+                  "lat" : -6.905926729892722,
+                  "lng" : 107.6182650201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "31f6ec6d20a9c37b1917bef99ce4cf41a4ca6aec",
+         "name" : "GiggleBox Cafe And Resto",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113756771831158812589/photos\"\u003eKevin Arf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz2kxj6uI1gTZAXx5D_G1LPagKT0Dj-b_Wr0pf5vrYc5xU1zjcoXXvqyXh3igxL9lnm49yO5_lgmZ03SPUkulQV7eKJSTASzjbcfY7WzPTqAB2aaGdsl24dTHXE6l8M_uEhCze6skh8tpmXSfnk30dAHsGhTyVVu1lDyfkUN2dZbrW-vraM8F_g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJkxwMOkjmaC4RUUmv9LTJMAg",
+         "plus_code" : {
+            "compound_code" : "3JW9+5R Bandung, Bandung City, Jawa Kulon",
+            "global_code" : "6P593JW9+5R"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJkxwMOkjmaC4RUUmv9LTJMAg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Progo No.33A, Citarum, Kota Bandung"
+      }
+   ],
+   "status" : "OK"
+}

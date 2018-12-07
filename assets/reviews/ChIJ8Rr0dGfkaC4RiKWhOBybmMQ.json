@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "formatted_phone_number" : "(022) 86121568",
+      "name" : "KAFE GAJAH",
+      "rating" : 4.4,
+      "reviews" : [
+         {
+            "author_name" : "Andry Yuniadi",
+            "author_url" : "https://www.google.com/maps/contrib/110952782092118758608/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-R6T_SXWO564/AAAAAAAAAAI/AAAAAAAAVKk/6h2Ahw3DmP8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "3 months ago",
+            "text" : "Many f&b choices with cheap price. Cozy corner.",
+            "time" : 1530694883
+         },
+         {
+            "author_name" : "Desty Caroline",
+            "author_url" : "https://www.google.com/maps/contrib/112354604119234840520/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-q7J5mfASZno/AAAAAAAAAAI/AAAAAAAAADY/kL1t0LyVpqA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "3 months ago",
+            "text" : "baguss💛",
+            "time" : 1530703559
+         },
+         {
+            "author_name" : "yudha botacksinside",
+            "author_url" : "https://www.google.com/maps/contrib/111934242304478238171/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-1PXCn56lZ_c/AAAAAAAAAAI/AAAAAAAAJ1M/jCSlBvVfjwo/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a year ago",
+            "text" : "this is an awesome simple concept of eat, meet and chill. cheap, delicious, qualified, what else?",
+            "time" : 1486214827
+         },
+         {
+            "author_name" : "Ajid Abdulmajid",
+            "author_url" : "https://www.google.com/maps/contrib/102740039125410776333/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-MqhZk_jXm74/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbDPY9kUTPAIcDWNQcqjciSYroI9Wg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "6 months ago",
+            "text" : "Very good",
+            "time" : 1522859279
+         },
+         {
+            "author_name" : "cep budhi darma",
+            "author_url" : "https://www.google.com/maps/contrib/113627008247865492426/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-wxXYc2T4JD8/AAAAAAAAAAI/AAAAAAAAAAA/6bIUJA2MPsk/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "10 months ago",
+            "text" : "Good place",
+            "time" : 1514247286
+         }
+      ]
+   },
+   "status" : "OK"
+}
